@@ -1,7 +1,7 @@
 # Data application instructions
 
-**Run the codes in following order from the same working directory to reproduce the results:**
-1. Data app-part 1 (till final wroking data).R
+**Run the codes sequentially in the following order from the same working directory to reproduce the results:**
+1. Data app-part 1.R
 2. Part2.R
 3. Part25.R
 4. Part3a.R
