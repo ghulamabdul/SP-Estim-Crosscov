@@ -3,5 +3,5 @@ This repository provides reproducible code for the manuscript titled *Semiparame
 
 ## Requirements
 
-The codes are written in R, and would require installing and loading the following R-packages: #fields
+The codes are written in R, and would require installing and loading the following R-packages: @fields
 
